@@ -39,3 +39,4 @@ union select 'Roberto','Potter',2000,'Gold',29,'Foreign Internal Defense',' Germ
 union select 'Ramon','Francis',1999,'Silver',16,'Unconventional Warfare',' United States',2021
 union select 'Miles','Erickson',1994,'Silver',13,'Information Operations',' Greece',2014
 
+Excellent job. Thanks for being a great mentor.
