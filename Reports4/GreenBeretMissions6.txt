@@ -1,0 +1,7 @@
+ For reports-
+ /*--1- Show column ImportanceOfMission  per Missiontype and country.
+ --2- Show count of how many missions have been completed.
+ /*--3- Show age enlisted based on YearSoldierBorn and YarBorough knife
+ ( YarBorough knife is a year because the Green Berets get it when they complete their training,and the year is engraved on it).
+ /*--4- Show amount of stars for each medal type.
+## Thank you for your service, may God bless you and may God bless America!
